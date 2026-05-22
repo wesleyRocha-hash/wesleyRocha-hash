@@ -28,7 +28,7 @@ Gosto de explorar sistemas, IA, segurança e criar projetos com identidade visua
 
 - 💻 **Foco Atual:** Back-end, IA e Cibersegurança  
 - ⚙️ **Stack Principal:** Rust, Python e Java  
-- 📚**Hobby:** Desenvolvimento projetos e estudos constantes
+- 📚**Hobby:** Desenvolvimento de projetos e estudos constantes
 
 ---
 
