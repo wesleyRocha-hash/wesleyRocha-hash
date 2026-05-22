@@ -9,57 +9,146 @@
 
 <br>
 
-<!-- 👾 PERSONAGEM PIXEL ART DESENHADO -->
+<!-- 👾 PERSONAGEM RETRÔ PIXEL ART ANIMADO -->
 <div align="center">
 
-<svg width="220" height="220" viewBox="0 0 220 220" xmlns="http://www.w3.org/2000/svg" style="image-rendering: pixelated;">
+<svg
+  width="260"
+  height="260"
+  viewBox="0 0 260 260"
+  xmlns="http://www.w3.org/2000/svg"
+  style="image-rendering: pixelated;"
+>
 
-  <!-- Fundo -->
-  <rect width="220" height="220" fill="#0d1117"/>
+<style>
 
-  <!-- Cabeça -->
-  <rect x="88" y="40" width="44" height="44" fill="#8d5524"/>
+  .float {
+    animation: float 2s ease-in-out infinite;
+    transform-origin: center;
+  }
 
-  <!-- Cabelo -->
-  <rect x="88" y="32" width="44" height="12" fill="#111"/>
-  <rect x="80" y="40" width="12" height="20" fill="#111"/>
-  <rect x="132" y="40" width="12" height="20" fill="#111"/>
+  .blink {
+    animation: blink 3s infinite;
+  }
 
-  <!-- Olhos -->
-  <rect x="96" y="56" width="8" height="8" fill="#fff"/>
-  <rect x="116" y="56" width="8" height="8" fill="#fff"/>
+  .typing1 {
+    animation: typing1 0.8s infinite;
+  }
 
-  <!-- Pupilas -->
-  <rect x="100" y="60" width="4" height="4" fill="#000"/>
-  <rect x="120" y="60" width="4" height="4" fill="#000"/>
+  .typing2 {
+    animation: typing2 0.8s infinite;
+  }
 
-  <!-- Boca -->
-  <rect x="104" y="72" width="12" height="4" fill="#000"/>
+  .glow {
+    animation: glow 1.5s ease-in-out infinite alternate;
+  }
 
-  <!-- Corpo -->
-  <rect x="84" y="84" width="52" height="56" fill="#00ff99"/>
+  @keyframes float {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(-4px); }
+    100% { transform: translateY(0px); }
+  }
 
-  <!-- Braços -->
-  <rect x="68" y="92" width="16" height="40" fill="#8d5524"/>
-  <rect x="136" y="92" width="16" height="40" fill="#8d5524"/>
+  @keyframes blink {
+    0%, 45%, 100% { opacity: 1; }
+    50%, 55% { opacity: 0; }
+  }
 
-  <!-- Notebook -->
-  <rect x="60" y="120" width="100" height="40" fill="#2d2d2d"/>
-  <rect x="68" y="128" width="84" height="20" fill="#00ff99"/>
+  @keyframes typing1 {
+    0% { opacity: 1; }
+    50% { opacity: 0.3; }
+    100% { opacity: 1; }
+  }
 
-  <!-- Código -->
-  <rect x="76" y="132" width="8" height="4" fill="#0d1117"/>
-  <rect x="92" y="132" width="20" height="4" fill="#0d1117"/>
-  <rect x="76" y="140" width="30" height="4" fill="#0d1117"/>
-  <rect x="112" y="140" width="16" height="4" fill="#0d1117"/>
+  @keyframes typing2 {
+    0% { opacity: 0.3; }
+    50% { opacity: 1; }
+    100% { opacity: 0.3; }
+  }
 
-  <!-- Pernas -->
-  <rect x="92" y="140" width="16" height="36" fill="#3b3bff"/>
-  <rect x="112" y="140" width="16" height="36" fill="#3b3bff"/>
+  @keyframes glow {
+    from {
+      filter: drop-shadow(0 0 2px #00ff99);
+    }
+    to {
+      filter: drop-shadow(0 0 10px #00ff99);
+    }
+  }
 
-  <!-- Sapatos -->
-  <rect x="88" y="176" width="20" height="8" fill="#fff"/>
-  <rect x="112" y="176" width="20" height="8" fill="#fff"/>
+</style>
+
+<!-- FUNDO -->
+<rect width="260" height="260" fill="#0d1117"/>
+
+<!-- PERSONAGEM -->
+<g class="float">
+
+  <!-- CABEÇA -->
+  <rect x="102" y="42" width="56" height="56" fill="#8d5524"/>
+
+  <!-- CABELO -->
+  <rect x="102" y="34" width="56" height="16" fill="#111"/>
+  <rect x="94" y="42" width="16" height="24" fill="#111"/>
+  <rect x="150" y="42" width="16" height="24" fill="#111"/>
+
+  <!-- OLHOS -->
+  <g class="blink">
+    <rect x="114" y="62" width="8" height="8" fill="#fff"/>
+    <rect x="138" y="62" width="8" height="8" fill="#fff"/>
+
+    <rect x="118" y="66" width="4" height="4" fill="#000"/>
+    <rect x="142" y="66" width="4" height="4" fill="#000"/>
+  </g>
+
+  <!-- BOCA -->
+  <rect x="124" y="82" width="12" height="4" fill="#000"/>
+
+  <!-- CORPO -->
+  <rect x="96" y="98" width="68" height="70" fill="#00ff99"/>
+
+  <!-- BRAÇO ESQUERDO -->
+  <g class="typing1">
+    <rect x="76" y="108" width="20" height="44" fill="#8d5524"/>
+  </g>
+
+  <!-- BRAÇO DIREITO -->
+  <g class="typing2">
+    <rect x="164" y="108" width="20" height="44" fill="#8d5524"/>
+  </g>
+
+  <!-- NOTEBOOK -->
+  <g class="glow">
+    <rect x="60" y="148" width="140" height="52" fill="#2b2b2b"/>
+    <rect x="70" y="158" width="120" height="30" fill="#00ff99"/>
+  </g>
+
+  <!-- LINHAS DE CÓDIGO -->
+  <rect x="82" y="166" width="18" height="4" fill="#0d1117"/>
+  <rect x="106" y="166" width="42" height="4" fill="#0d1117"/>
+  <rect x="82" y="176" width="56" height="4" fill="#0d1117"/>
+  <rect x="146" y="176" width="22" height="4" fill="#0d1117"/>
+
+  <!-- PERNAS -->
+  <rect x="108" y="168" width="20" height="46" fill="#3b3bff"/>
+  <rect x="132" y="168" width="20" height="46" fill="#3b3bff"/>
+
+  <!-- SAPATOS -->
+  <rect x="104" y="214" width="24" height="8" fill="#fff"/>
+  <rect x="132" y="214" width="24" height="8" fill="#fff"/>
+
+</g>
+
+<!-- TEXTO RETRÔ -->
+<text
+  x="50%"
+  y="245"
+  text-anchor="middle"
+  fill="#00ff99"
+  font-size="12"
+  font-family="monospace"
+>
+  > SENHOR STONE_
+</text>
 
 </svg>
 
