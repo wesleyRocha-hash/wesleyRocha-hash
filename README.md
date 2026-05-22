@@ -1,173 +1,100 @@
-<!-- 🎮 LETREIRO PIXEL RETRÔ -->
+<!-- 🎮 LETREIRO RETRÔ -->
 <div align="center">
 
-<img 
-  src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=2500&pause=1200&color=00FF99&center=true&vCenter=true&multiline=true&repeat=true&width=1100&height=120&lines=%3E+OL%C3%81%2C+EU+SOU+WESLEY+%5BSTONE%5D;%3E+BACK-END+DEV+%7C+RUST+%7C+PYTHON+%7C+JAVA;%3E+IA+%2B+CIBERSEGURAN%C3%87A+%2B+PIXEL+ART;%3E+PRESS+START+TO+CONTINUE" 
-  alt="Pixel Retro Typing"
+<img
+  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1200&color=00FF99&center=true&vCenter=true&width=900&lines=%3E+OL%C3%81%2C+EU+SOU+WESLEY+%5BSTONE%5D;%3E+BACK-END+DEV+%7C+RUST+%7C+PYTHON+%7C+JAVA;%3E+IA+%2B+CIBERSEGURAN%C3%87A+%2B+PIXEL+ART"
+  alt="Typing SVG"
 />
 
 </div>
 
-<br>
+---
 
-<!-- 👾 PERSONAGEM RETRÔ PIXEL ART -->
+<!-- 👾 PERSONAGEM PIXEL -->
 <div align="center">
 
-<svg
-  width="280"
-  height="280"
-  viewBox="0 0 280 280"
-  xmlns="http://www.w3.org/2000/svg"
->
+<svg width="260" height="260" viewBox="0 0 260 260" xmlns="http://www.w3.org/2000/svg">
 
 <!-- FUNDO -->
-<rect width="280" height="280" fill="#0d1117"/>
+<rect width="260" height="260" fill="#0d1117"/>
 
 <!-- SOMBRA -->
-<ellipse cx="140" cy="240" rx="55" ry="12" fill="#000" opacity="0.35">
+<ellipse cx="130" cy="220" rx="55" ry="10" fill="#050505"/>
 
-  <animate
-    attributeName="rx"
-    values="55;58;55"
-    dur="2s"
-    repeatCount="indefinite"
-  />
+<!-- CABELO -->
+<rect x="96" y="42" width="68" height="18" fill="#111"/>
+<rect x="88" y="52" width="16" height="26" fill="#111"/>
+<rect x="156" y="52" width="16" height="26" fill="#111"/>
 
-</ellipse>
+<!-- CABEÇA -->
+<rect x="96" y="52" width="68" height="68" fill="#8d5524"/>
 
-<!-- PERSONAGEM -->
-<g>
+<!-- OLHOS -->
+<rect x="114" y="80" width="8" height="8" fill="#fff"/>
+<rect x="138" y="80" width="8" height="8" fill="#fff"/>
 
-  <!-- ANIMAÇÃO FLOAT -->
-  <animateTransform
-    attributeName="transform"
-    type="translate"
-    values="0 0; 0 -4; 0 0"
-    dur="2s"
-    repeatCount="indefinite"
-  />
+<!-- PUPILAS -->
+<rect x="118" y="84" width="4" height="4" fill="#000"/>
+<rect x="142" y="84" width="4" height="4" fill="#000"/>
 
-  <!-- CABEÇA -->
-  <rect x="112" y="42" width="56" height="56" fill="#8d5524"/>
+<!-- BOCA -->
+<rect x="124" y="102" width="12" height="4" fill="#000"/>
 
-  <!-- CABELO -->
-  <rect x="112" y="34" width="56" height="16" fill="#111"/>
-  <rect x="104" y="42" width="16" height="24" fill="#111"/>
-  <rect x="160" y="42" width="16" height="24" fill="#111"/>
+<!-- CORPO -->
+<rect x="90" y="120" width="80" height="72" fill="#00ff99"/>
 
-  <!-- OLHO ESQUERDO -->
-  <rect x="124" y="64" width="8" height="8" fill="#ffffff">
-    <animate
-      attributeName="height"
-      values="8;1;8"
-      dur="3s"
-      repeatCount="indefinite"
-    />
-  </rect>
+<!-- BRAÇO ESQUERDO -->
+<rect x="68" y="132" width="22" height="50" fill="#8d5524"/>
 
-  <!-- OLHO DIREITO -->
-  <rect x="148" y="64" width="8" height="8" fill="#ffffff">
-    <animate
-      attributeName="height"
-      values="8;1;8"
-      dur="3s"
-      repeatCount="indefinite"
-    />
-  </rect>
+<!-- BRAÇO DIREITO -->
+<rect x="170" y="132" width="22" height="50" fill="#8d5524"/>
 
-  <!-- PUPILAS -->
-  <rect x="128" y="68" width="4" height="4" fill="#000"/>
-  <rect x="152" y="68" width="4" height="4" fill="#000"/>
+<!-- NOTEBOOK -->
+<rect x="56" y="176" width="148" height="52" fill="#2b2b2b"/>
+<rect x="68" y="188" width="124" height="28" fill="#00ff99"/>
 
-  <!-- BOCA -->
-  <rect x="134" y="84" width="12" height="4" fill="#000"/>
+<!-- LINHAS -->
+<rect x="82" y="196" width="18" height="4" fill="#0d1117"/>
+<rect x="106" y="196" width="42" height="4" fill="#0d1117"/>
+<rect x="82" y="206" width="56" height="4" fill="#0d1117"/>
+<rect x="146" y="206" width="22" height="4" fill="#0d1117"/>
 
-  <!-- CORPO -->
-  <rect x="104" y="98" width="72" height="74" fill="#00ff99"/>
+<!-- PERNAS -->
+<rect x="104" y="192" width="22" height="42" fill="#3b3bff"/>
+<rect x="136" y="192" width="22" height="42" fill="#3b3bff"/>
 
-  <!-- BRAÇO ESQUERDO -->
-  <rect x="80" y="110" width="20" height="42" fill="#8d5524">
-
-    <animateTransform
-      attributeName="transform"
-      type="rotate"
-      values="0 90 120; 8 90 120; 0 90 120"
-      dur="0.5s"
-      repeatCount="indefinite"
-    />
-
-  </rect>
-
-  <!-- BRAÇO DIREITO -->
-  <rect x="180" y="110" width="20" height="42" fill="#8d5524">
-
-    <animateTransform
-      attributeName="transform"
-      type="rotate"
-      values="0 190 120; -8 190 120; 0 190 120"
-      dur="0.5s"
-      repeatCount="indefinite"
-    />
-
-  </rect>
-
-  <!-- NOTEBOOK -->
-  <rect x="70" y="152" width="140" height="52" fill="#2b2b2b"/>
-
-  <!-- TELA -->
-  <rect x="82" y="162" width="116" height="28" fill="#00ff99">
-
-    <animate
-      attributeName="opacity"
-      values="1;0.85;1"
-      dur="1s"
-      repeatCount="indefinite"
-    />
-
-  </rect>
-
-  <!-- CÓDIGO -->
-  <rect x="94" y="168" width="18" height="4" fill="#0d1117"/>
-  <rect x="118" y="168" width="40" height="4" fill="#0d1117"/>
-  <rect x="94" y="178" width="56" height="4" fill="#0d1117"/>
-  <rect x="158" y="178" width="18" height="4" fill="#0d1117"/>
-
-  <!-- PERNAS -->
-  <rect x="116" y="172" width="20" height="44" fill="#3b3bff"/>
-  <rect x="144" y="172" width="20" height="44" fill="#3b3bff"/>
-
-  <!-- SAPATOS -->
-  <rect x="112" y="216" width="24" height="8" fill="#ffffff"/>
-  <rect x="144" y="216" width="24" height="8" fill="#ffffff"/>
-
-</g>
+<!-- SAPATOS -->
+<rect x="100" y="234" width="28" height="8" fill="#fff"/>
+<rect x="134" y="234" width="28" height="8" fill="#fff"/>
 
 <!-- TEXTO -->
 <text
   x="50%"
-  y="262"
+  y="252"
   text-anchor="middle"
   fill="#00ff99"
-  font-size="12"
+  font-size="11"
   font-family="monospace"
 >
-  > SENHOR STONE_
+  ► SENHOR STONE
 </text>
 
 </svg>
 
 </div>
 
-<br>
+---
 
-# 🕹️ Sobre Mim
+# 👾 Senhor Stone
+
+## 🕹️ Sobre Mim
 
 Sou um estudante de ADS apaixonado por tecnologia, desenvolvimento back-end e experiências digitais criativas.  
 Gosto de explorar sistemas, IA, segurança e criar projetos com identidade visual inspirada em jogos retrô.
 
-- 💻 **Foco Atual:** Back-end, IA e Cibersegurança  
-- ⚙️ **Stack Principal:** Rust, Python e Java  
-- 🎮 **Hobby:** Desenvolvimento de jogos 2D e Pixel Art  
+- 💻 **Foco Atual:** Back-end, IA e Cibersegurança
+- ⚙️ **Stack Principal:** Rust, Python e Java
+- 🎮 **Hobby:** Desenvolvimento de jogos 2D e Pixel Art
 
 ---
 
@@ -184,47 +111,5 @@ Gosto de explorar sistemas, IA, segurança e criar projetos com identidade visua
 <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624" />
 <img src="https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
 <img src="https://img.shields.io/badge/Wireshark-001F3F?style=for-the-badge&logo=wireshark&logoColor=white" />
-
-</div>
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics"/>
-</div>
-
----
-
-# 🌐 Contato
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/wesley-fernandes-html/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/wesley_fernandes_r/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-FF006E?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-```txt
-███████╗████████╗ ██████╗ ███╗   ██╗███████╗
-██╔════╝╚══██╔══╝██╔═══██╗████╗  ██║██╔════╝
-███████╗   ██║   ██║   ██║██╔██╗ ██║█████╗
-╚════██║   ██║   ██║   ██║██║╚██╗██║██╔══╝
-███████║   ██║   ╚██████╔╝██║ ╚████║███████╗
-╚══════╝   ╚═╝    ╚═════╝ ╚═╝  ╚═══╝╚══════╝
-```
-
-### 🎮 SYSTEM READY...
-### ▶ PRESS START
 
 </div>
