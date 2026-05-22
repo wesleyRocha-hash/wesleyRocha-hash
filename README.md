@@ -9,14 +9,60 @@
 
 <br>
 
-<!-- 👾 PERSONAGEM RETRÔ -->
+<!-- 👾 PERSONAGEM PIXEL ART DESENHADO -->
 <div align="center">
-  <img 
-    src="https://media.tenor.com/DimzPZMypFcAAAAi/laptop.gif"
-    width="220"
-    alt="Personagem Pixel Art"
-    style="image-rendering: pixelated;"
-  />
+
+<svg width="220" height="220" viewBox="0 0 220 220" xmlns="http://www.w3.org/2000/svg" style="image-rendering: pixelated;">
+
+  <!-- Fundo -->
+  <rect width="220" height="220" fill="#0d1117"/>
+
+  <!-- Cabeça -->
+  <rect x="88" y="40" width="44" height="44" fill="#8d5524"/>
+
+  <!-- Cabelo -->
+  <rect x="88" y="32" width="44" height="12" fill="#111"/>
+  <rect x="80" y="40" width="12" height="20" fill="#111"/>
+  <rect x="132" y="40" width="12" height="20" fill="#111"/>
+
+  <!-- Olhos -->
+  <rect x="96" y="56" width="8" height="8" fill="#fff"/>
+  <rect x="116" y="56" width="8" height="8" fill="#fff"/>
+
+  <!-- Pupilas -->
+  <rect x="100" y="60" width="4" height="4" fill="#000"/>
+  <rect x="120" y="60" width="4" height="4" fill="#000"/>
+
+  <!-- Boca -->
+  <rect x="104" y="72" width="12" height="4" fill="#000"/>
+
+  <!-- Corpo -->
+  <rect x="84" y="84" width="52" height="56" fill="#00ff99"/>
+
+  <!-- Braços -->
+  <rect x="68" y="92" width="16" height="40" fill="#8d5524"/>
+  <rect x="136" y="92" width="16" height="40" fill="#8d5524"/>
+
+  <!-- Notebook -->
+  <rect x="60" y="120" width="100" height="40" fill="#2d2d2d"/>
+  <rect x="68" y="128" width="84" height="20" fill="#00ff99"/>
+
+  <!-- Código -->
+  <rect x="76" y="132" width="8" height="4" fill="#0d1117"/>
+  <rect x="92" y="132" width="20" height="4" fill="#0d1117"/>
+  <rect x="76" y="140" width="30" height="4" fill="#0d1117"/>
+  <rect x="112" y="140" width="16" height="4" fill="#0d1117"/>
+
+  <!-- Pernas -->
+  <rect x="92" y="140" width="16" height="36" fill="#3b3bff"/>
+  <rect x="112" y="140" width="16" height="36" fill="#3b3bff"/>
+
+  <!-- Sapatos -->
+  <rect x="88" y="176" width="20" height="8" fill="#fff"/>
+  <rect x="112" y="176" width="20" height="8" fill="#fff"/>
+
+</svg>
+
 </div>
 
 <br>
