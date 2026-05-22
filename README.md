@@ -18,8 +18,7 @@
 
 ### 📊 As Minhas Estatísticas
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wesleyRocha-hash&show_icons=true&theme=radical&hide_border=true&bg_color=050505&text_color=d4d4d4&icon_color=cd7f32&title_color=cd7f32&v=1" height="190" alt="Estatísticas do GitHub do Wesley"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyRocha-hash&layout=compact&theme=radical&hide_border=true&bg_color=050505&text_color=d4d4d4&title_color=cd7f32&v=1" height="190" alt="Linguagens Mais Usadas"/>
+  <img src="github-metrics.svg" alt="Estatísticas Dinâmicas do GitHub" />
 </div>
 
 ---
