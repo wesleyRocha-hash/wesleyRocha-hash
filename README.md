@@ -24,7 +24,7 @@
 ## 🕹️ Sobre Mim
 
 Sou um estudante de ADS apaixonado por tecnologia, desenvolvimento back-end e experiências digitais criativas.  
-Gosto de explorar sistemas, IA, segurança e criar projetos com identidade visual inspirada em jogos retrô.
+Gosto de explorar sistemas, IA, segurança e criar projetos.
 
 - 💻 **Foco Atual:** Back-end, IA e Cibersegurança  
 - ⚙️ **Stack Principal:** Rust, Python e Java  
