@@ -1,7 +1,7 @@
 <!-- 🎮 LETREIRO PIXEL RETRÔ -->
 <div align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=2500&pause=1200&color=00FF99&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=120&lines=%3E+OL%C3%81%2C+EU+SOU+WESLEY+%5BSENHOR+STONE%5D;%3E+BACK-END+DEV+%7C+RUST+%7C+PYTHON+%7C+JAVA;%3E+IA+%2B+CIBERSEGURAN%C3%87A+%2B+PIXEL+ART;%3E+PRESS+START+TO+CONTINUE"
+    src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=2500&pause=1200&color=00FF99&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=120&lines=%3E+OL%C3%81%2C+EU+SOU+WESLEY+%5BSTONE%5D;%3E+BACK-END+DEV+%7C+RUST+%7C+PYTHON+%7C+JAVA;%3E+IA+%2B+CIBERSEGURAN%C3%87A+%2B+PIXEL+ART;%3E+PRESS+START+TO+CONTINUE"
     alt="Pixel Retro Typing"
     style="image-rendering: pixelated;"
   />
@@ -66,8 +66,6 @@
 </div>
 
 <br>
-
-# 👾 Senhor Stone
 
 ## 🕹️ Sobre Mim
 
