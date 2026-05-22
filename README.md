@@ -1,153 +1,169 @@
 <!-- 🎮 LETREIRO PIXEL RETRÔ -->
 <div align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=2500&pause=1200&color=00FF99&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=120&lines=%3E+OL%C3%81%2C+EU+SOU+WESLEY+%5BSTONE%5D;%3E+BACK-END+DEV+%7C+RUST+%7C+PYTHON+%7C+JAVA;%3E+IA+%2B+CIBERSEGURAN%C3%87A+%2B+PIXEL+ART;%3E+PRESS+START+TO+CONTINUE"
-    alt="Pixel Retro Typing"
-    style="image-rendering: pixelated;"
-  />
+
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=2500&pause=1200&color=00FF99&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=140&lines=%3E+OL%C3%81%2C+EU+SOU+WESLEY+%5BSTONE%5D;%3E+BACK-END+DEV+%7C+RUST+%7C+PYTHON+%7C+JAVA;%3E+IA+%2B+CIBERSEGURAN%C3%87A+%2B+PIXEL+ART;%3E+PRESS+START+TO+CONTINUE"
+  alt="Pixel Retro Typing"
+/>
+
 </div>
 
 <br>
 
-<!-- 👾 PERSONAGEM RETRÔ PIXEL ART ANIMADO -->
+<!-- 👾 PERSONAGEM PIXEL ART -->
 <div align="center">
 
+<img
+  src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+  width="0"
+  height="0"
+/>
+
 <svg
-  width="260"
-  height="260"
-  viewBox="0 0 260 260"
+  width="320"
+  height="320"
+  viewBox="0 0 320 320"
   xmlns="http://www.w3.org/2000/svg"
-  style="image-rendering: pixelated;"
 >
 
-<style>
-
-  .float {
-    animation: float 2s ease-in-out infinite;
-    transform-origin: center;
-  }
-
-  .blink {
-    animation: blink 3s infinite;
-  }
-
-  .typing1 {
-    animation: typing1 0.8s infinite;
-  }
-
-  .typing2 {
-    animation: typing2 0.8s infinite;
-  }
-
-  .glow {
-    animation: glow 1.5s ease-in-out infinite alternate;
-  }
-
-  @keyframes float {
-    0% { transform: translateY(0px); }
-    50% { transform: translateY(-4px); }
-    100% { transform: translateY(0px); }
-  }
-
-  @keyframes blink {
-    0%, 45%, 100% { opacity: 1; }
-    50%, 55% { opacity: 0; }
-  }
-
-  @keyframes typing1 {
-    0% { opacity: 1; }
-    50% { opacity: 0.3; }
-    100% { opacity: 1; }
-  }
-
-  @keyframes typing2 {
-    0% { opacity: 0.3; }
-    50% { opacity: 1; }
-    100% { opacity: 0.3; }
-  }
-
-  @keyframes glow {
-    from {
-      filter: drop-shadow(0 0 2px #00ff99);
-    }
-    to {
-      filter: drop-shadow(0 0 10px #00ff99);
-    }
-  }
-
-</style>
-
 <!-- FUNDO -->
-<rect width="260" height="260" fill="#0d1117"/>
+<rect width="320" height="320" fill="#0d1117"/>
+
+<!-- SOMBRA -->
+<ellipse cx="160" cy="280" rx="70" ry="12" fill="#050505" opacity="0.5">
+
+  <animate
+    attributeName="rx"
+    values="70;75;70"
+    dur="2s"
+    repeatCount="indefinite"
+  />
+
+</ellipse>
 
 <!-- PERSONAGEM -->
-<g class="float">
+<g>
+
+  <!-- FLOAT -->
+  <animateTransform
+    attributeName="transform"
+    type="translate"
+    values="0 0;0 -6;0 0"
+    dur="2s"
+    repeatCount="indefinite"
+  />
 
   <!-- CABEÇA -->
-  <rect x="102" y="42" width="56" height="56" fill="#8d5524"/>
+  <rect x="124" y="52" width="72" height="72" fill="#8d5524"/>
 
   <!-- CABELO -->
-  <rect x="102" y="34" width="56" height="16" fill="#111"/>
-  <rect x="94" y="42" width="16" height="24" fill="#111"/>
-  <rect x="150" y="42" width="16" height="24" fill="#111"/>
+  <rect x="124" y="40" width="72" height="20" fill="#111111"/>
+  <rect x="112" y="52" width="20" height="30" fill="#111111"/>
+  <rect x="188" y="52" width="20" height="30" fill="#111111"/>
 
   <!-- OLHOS -->
-  <g class="blink">
-    <rect x="114" y="62" width="8" height="8" fill="#fff"/>
-    <rect x="138" y="62" width="8" height="8" fill="#fff"/>
+  <rect x="142" y="82" width="10" height="10" fill="#ffffff">
+    <animate
+      attributeName="height"
+      values="10;1;10"
+      dur="4s"
+      repeatCount="indefinite"
+    />
+  </rect>
 
-    <rect x="118" y="66" width="4" height="4" fill="#000"/>
-    <rect x="142" y="66" width="4" height="4" fill="#000"/>
-  </g>
+  <rect x="168" y="82" width="10" height="10" fill="#ffffff">
+    <animate
+      attributeName="height"
+      values="10;1;10"
+      dur="4s"
+      repeatCount="indefinite"
+    />
+  </rect>
+
+  <!-- PUPILAS -->
+  <rect x="146" y="86" width="4" height="4" fill="#000"/>
+  <rect x="172" y="86" width="4" height="4" fill="#000"/>
 
   <!-- BOCA -->
-  <rect x="124" y="82" width="12" height="4" fill="#000"/>
+  <rect x="154" y="104" width="12" height="4" fill="#000"/>
 
   <!-- CORPO -->
-  <rect x="96" y="98" width="68" height="70" fill="#00ff99"/>
+  <rect x="116" y="124" width="88" height="90" fill="#00ff99"/>
 
   <!-- BRAÇO ESQUERDO -->
-  <g class="typing1">
-    <rect x="76" y="108" width="20" height="44" fill="#8d5524"/>
+  <g>
+
+    <animateTransform
+      attributeName="transform"
+      type="rotate"
+      values="0 120 170;-6 120 170;0 120 170"
+      dur="0.6s"
+      repeatCount="indefinite"
+    />
+
+    <rect x="92" y="138" width="24" height="56" fill="#8d5524"/>
+
   </g>
 
   <!-- BRAÇO DIREITO -->
-  <g class="typing2">
-    <rect x="164" y="108" width="20" height="44" fill="#8d5524"/>
+  <g>
+
+    <animateTransform
+      attributeName="transform"
+      type="rotate"
+      values="0 208 170;6 208 170;0 208 170"
+      dur="0.6s"
+      repeatCount="indefinite"
+    />
+
+    <rect x="204" y="138" width="24" height="56" fill="#8d5524"/>
+
   </g>
 
   <!-- NOTEBOOK -->
-  <g class="glow">
-    <rect x="60" y="148" width="140" height="52" fill="#2b2b2b"/>
-    <rect x="70" y="158" width="120" height="30" fill="#00ff99"/>
+  <g>
+
+    <rect x="76" y="194" width="168" height="62" fill="#2b2b2b"/>
+
+    <rect x="88" y="206" width="144" height="36" fill="#00ff99">
+
+      <animate
+        attributeName="opacity"
+        values="1;0.7;1"
+        dur="1.5s"
+        repeatCount="indefinite"
+      />
+
+    </rect>
+
   </g>
 
-  <!-- LINHAS DE CÓDIGO -->
-  <rect x="82" y="166" width="18" height="4" fill="#0d1117"/>
-  <rect x="106" y="166" width="42" height="4" fill="#0d1117"/>
-  <rect x="82" y="176" width="56" height="4" fill="#0d1117"/>
-  <rect x="146" y="176" width="22" height="4" fill="#0d1117"/>
+  <!-- CÓDIGO -->
+  <rect x="104" y="216" width="22" height="4" fill="#0d1117"/>
+  <rect x="132" y="216" width="46" height="4" fill="#0d1117"/>
+  <rect x="104" y="228" width="60" height="4" fill="#0d1117"/>
+  <rect x="172" y="228" width="28" height="4" fill="#0d1117"/>
 
   <!-- PERNAS -->
-  <rect x="108" y="168" width="20" height="46" fill="#3b3bff"/>
-  <rect x="132" y="168" width="20" height="46" fill="#3b3bff"/>
+  <rect x="130" y="214" width="24" height="54" fill="#3b3bff"/>
+  <rect x="166" y="214" width="24" height="54" fill="#3b3bff"/>
 
   <!-- SAPATOS -->
-  <rect x="104" y="214" width="24" height="8" fill="#fff"/>
-  <rect x="132" y="214" width="24" height="8" fill="#fff"/>
+  <rect x="126" y="268" width="30" height="10" fill="#ffffff"/>
+  <rect x="164" y="268" width="30" height="10" fill="#ffffff"/>
 
 </g>
 
-<!-- TEXTO RETRÔ -->
+<!-- TEXTO -->
 <text
   x="50%"
-  y="245"
+  y="304"
   text-anchor="middle"
   fill="#00ff99"
-  font-size="12"
+  font-size="14"
   font-family="monospace"
 >
-  > SENHOR STONE_
+  ► SENHOR STONE_
 </text>
 
 </svg>
@@ -156,14 +172,16 @@
 
 <br>
 
+# 👾 Senhor Stone
+
 ## 🕹️ Sobre Mim
 
 Sou um estudante de ADS apaixonado por tecnologia, desenvolvimento back-end e experiências digitais criativas.  
 Gosto de explorar sistemas, IA, segurança e criar projetos com identidade visual inspirada em jogos retrô.
 
-- 💻 **Foco Atual:** Back-end, IA e Cibersegurança  
-- ⚙️ **Stack Principal:** Rust, Python e Java  
-- 🎮 **Hobby:** Desenvolvimento de jogos 2D e Pixel Art  
+- 💻 **Foco Atual:** Back-end, IA e Cibersegurança
+- ⚙️ **Stack Principal:** Rust, Python e Java
+- 🎮 **Hobby:** Desenvolvimento de jogos 2D e Pixel Art
 
 ---
 
@@ -218,3 +236,9 @@ Gosto de explorar sistemas, IA, segurança e criar projetos com identidade visua
 ╚════██║   ██║   ██║   ██║██║╚██╗██║██╔══╝
 ███████║   ██║   ╚██████╔╝██║ ╚████║███████╗
 ╚══════╝   ╚═╝    ╚═════╝ ╚═╝  ╚═══╝╚══════╝
+```
+
+### 🎮 SYSTEM READY...
+### ▶ PRESS START
+
+</div>
