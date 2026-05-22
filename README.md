@@ -21,8 +21,6 @@
 
 <br>
 
-# 👾 Senhor Stone
-
 ## 🕹️ Sobre Mim
 
 Sou um estudante de ADS apaixonado por tecnologia, desenvolvimento back-end e experiências digitais criativas.  
