@@ -52,15 +52,15 @@ Gosto de explorar sistemas, IA, segurança e criar projetos.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Rust-2C2C2C?style=for-the-badge&logo=rust&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-1A1A1A?style=for-the-badge&logo=python&logoColor=FFD43B" />
-<img src="https://img.shields.io/badge/Java-101010?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
+<img src="https://img.shields.io/badge/JavaScript-101010?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" />
 
 <br><br>
 
 <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624" />
-<img src="https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
-<img src="https://img.shields.io/badge/Wireshark-001F3F?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/VSCode-001F3F?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
 
 </div>
 
