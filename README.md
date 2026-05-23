@@ -55,13 +55,13 @@ Gosto de explorar sistemas, IA, segurança e criar projetos.
 <div align="center">
 
 <img
-  height="180em"
-  src="https://github-readme-stats.vercel.app/api?username=WESLEYFERNANDESROCHA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"
+  src="https://streak-stats.demolab.com?user=wesleyRocha-hash&theme=tokyonight&hide_border=true"
 />
 
+<br>
+
 <img
-  height="180em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=WESLEYFERNANDESROCHA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wesleyRocha-hash&theme=tokyonight"
 />
 
 </div>
