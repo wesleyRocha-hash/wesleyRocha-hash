@@ -13,7 +13,7 @@
 
 <img
   src="https://fiverr-res.cloudinary.com/image/upload/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/75f2d1171b781ca103dde2dcb5a961d6-1729627677/desk%20final.gif"
-  width="520"
+  width="560"
   alt="Senhor Stone Retro Setup"
   style="
     image-rendering: pixelated;
