@@ -74,6 +74,7 @@ Gosto de explorar sistemas, IA, segurança e criar projetos.
 ---
 
 <div align="center">
+--txt
 
 ███████╗████████╗ ██████╗ ███╗   ██╗███████╗
 ██╔════╝╚══██╔══╝██╔═══██╗████╗  ██║██╔════╝
