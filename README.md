@@ -86,16 +86,6 @@ Gosto de explorar sistemas, IA, segurança e criar projetos.
 
 <div align="center">
 
-```txt
-███████╗████████╗ ██████╗ ███╗   ██╗███████╗
-██╔════╝╚══██╔══╝██╔═══██╗████╗  ██║██╔════╝
-███████╗  ██║   ██║   ██║██╔██╗ ██║█████╗
-╚════██║  ██║   ██║   ██║██║╚██╗██║██╔══╝
-███████║   ██║   ╚██████╔╝██║ ╚████║███████╗
-╚══════╝   ╚═╝    ╚═════╝ ╚═╝  ╚═══╝╚══════╝
-```
-
-### 🎮 SYSTEM READY...
-### ▶ PRESS START
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=00FF99&center=true&vCenter=true&repeat=true&width=700&lines=SENHOR+STONE;SYSTEM+READY;PRESS+START" />
 
 </div>
