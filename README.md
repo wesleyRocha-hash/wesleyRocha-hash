@@ -21,7 +21,7 @@
 
 <br>
 
-                                                                          ## 🕹️ Sobre Mim
+                                                                    ## 🕹️ Sobre Mim
 
 Sou um estudante de ADS apaixonado por tecnologia, desenvolvimento back-end e experiências digitais criativas.  
 Gosto de explorar sistemas, IA, segurança e criar projetos.
