@@ -50,6 +50,13 @@ Gosto de explorar sistemas, IA, segurança e criar projetos.
 
 ---
 
+### 📊 As Minhas Estatísticas
+<div align="center">
+  <img src="github-metrics.svg" alt="Estatísticas Dinâmicas do GitHub" />
+</div>
+
+---
+
 # 🌐 Contato
 
 <div align="center">
