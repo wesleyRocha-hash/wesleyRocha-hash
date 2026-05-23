@@ -9,6 +9,22 @@
 
 <br>
 
+<div align="center">
+
+<img
+  src="https://fiverr-res.cloudinary.com/image/upload/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/75f2d1171b781ca103dde2dcb5a961d6-1729627677/desk%20final.gif"
+  width="520"
+  alt="Senhor Stone Retro Setup"
+  style="
+    image-rendering: pixelated;
+    border-radius: 14px;
+    border: 2px solid #00FF99;
+    box-shadow: 0 0 25px rgba(0,255,153,0.25);
+  "
+/>
+
+</div>
+
 <!-- 👾 PERSONAGEM RETRÔ -->
 <div align="center">
   <img 
